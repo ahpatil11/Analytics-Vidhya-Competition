@@ -3,4 +3,4 @@
 
 **Analytics Vidhya hackathons** are an excellent opportunity for anyone who is keen on improving and testing their data science skills. The portal offers a wide variety of **Machine learning, Deep Learning **and** NLP hackathons.**
 
-- **Rank 2702** (31st December 2021)
+- **Rank 2702** (31st December 2022)
